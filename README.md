@@ -35,4 +35,4 @@ Welcome to **Dhanashree's Game World**! This is a whimsical, game-like website f
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/athena-game-world.git
-   cd athena-game-world
+   
